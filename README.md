@@ -1,2 +1,2 @@
 # eolymp_duevano
-duevano's eolymp solved questions
+duevano eolymp's solved problems
